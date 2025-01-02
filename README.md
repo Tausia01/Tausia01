@@ -18,9 +18,13 @@ Web Developer: Designing a classroom booking system for university faculty membe
 **🛠️ Technical Skills**
 
 **Programming Languages:** Python, JavaScript, PHP
+
 **Frameworks and Tools:** NumPy, CuPy, PyAudio, XAMPP, VS Code, Bootstrap
+
 **AI and ML:** Neural Networks, MatriVasha Dataset for Bangla compound letter classification
+
 **Robotics:** Raspberry Pi 4 Model B, AI for object/face recognition, real-time decision-making
+
 **Version Control:** Learning GitHub to track progress and collaborate effectively
 
 
