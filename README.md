@@ -1,14 +1,11 @@
 **👋 **Hello, I’m Tausia Tahsin Nuzum!****
 
-I’m a passionate 3rd-year Computer Science and Engineering student at Independent University, Bangladesh, currently delving into the intersections of technology, artificial intelligence, and real-world problem-solving.
+I’m a 3rd-year Computer Science and Engineering student at Independent University, Bangladesh, currently delving into the intersections of technology, artificial intelligence, and real-world problem-solving.
 
 **🌟 About Me**
 
 **Research Enthusiast:** 
 Collaborating with the Center for Computational and Data Sciences (CCDS) on innovative mobile sensing projects, including zero-permission sensor research to infer mood data using IMUs and other smartphone sensors.
-
-**Android Developer:** 
-Exploring sensor data collection and building apps for accelerometer and gyroscope data analysis.
 
 **AI and Robotics:**
 Developing an autonomous healthcare robot equipped with advanced navigation, real-time patient monitoring, and interactive communication features.
@@ -17,15 +14,14 @@ Web Developer: Designing a classroom booking system for university faculty membe
 
 **🛠️ Technical Skills**
 
-**Programming Languages:** Python, JavaScript, PHP
+**Programming Languages:** Python, Java, HTML, CSS, JavaScript, PHP
 
-**Frameworks and Tools:** NumPy, CuPy, PyAudio, XAMPP, VS Code, Bootstrap
+**Frameworks and Tools:** NumPy, CuPy, Pytorch, XAMPP, VS Code, Bootstrap, Github
 
 **AI and ML:** Neural Networks, MatriVasha Dataset for Bangla compound letter classification
 
 **Robotics:** Raspberry Pi 4 Model B, AI for object/face recognition, real-time decision-making
 
-**Version Control:** Learning GitHub to track progress and collaborate effectively
 
 
 **🚀 Featured Projects**
