@@ -1,6 +1,6 @@
 **👋 **Hello, I’m Tausia Tahsin Nuzum!****
 
-I’m a 3rd-year Computer Science and Engineering student at Independent University, Bangladesh, currently delving into the intersections of technology, artificial intelligence, and real-world problem-solving.
+I’m a 4th-year Computer Science and Engineering student at Independent University, Bangladesh, currently delving into the intersections of technology, artificial intelligence, and real-world problem-solving.
 
 **🌟 About Me**
 
@@ -50,8 +50,7 @@ Improving version control skills with GitHub.
 
 **📫 Connect With Me**
 
-LinkedIn
-Email
-Portfolio (Coming Soon!)
+LinkedIn: https://www.linkedin.com/in/tausia-tahsin-nuzum-a87100244/
+Email: tausia.tahsin@gmail.com
 
 Let’s collaborate and create impactful tech solutions together! 💻✨
