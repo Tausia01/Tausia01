@@ -1,56 +1,77 @@
-**👋 **Hello, I’m Tausia Tahsin Nuzum!****
+# Hello, I’m Tausia Tahsin Nuzum 👋
 
-I’m a 4th-year Computer Science and Engineering student at Independent University, Bangladesh, currently delving into the intersections of technology, artificial intelligence, and real-world problem-solving.
+I am a **Computer Science and Engineering graduate** from **Independent University, Bangladesh**  
+(**CGPA: 3.94 / 4.00**), with a strong interest in **Human–Computer Interaction (HCI)**,  
+**User-Centered Design (UCD)**, and **applied AI systems** that support real-world human needs.
 
-**🌟 About Me**
+---
 
-**Research Enthusiast:** 
-Collaborating with the Center for Computational and Data Sciences (CCDS) on innovative mobile sensing projects, including zero-permission sensor research to infer mood data using IMUs and other smartphone sensors.
+## About Me
 
-**AI and Robotics:**
-Developing an autonomous healthcare robot equipped with advanced navigation, real-time patient monitoring, and interactive communication features.
-Web Developer: Designing a classroom booking system for university faculty members using HTML, CSS, JavaScript, and PHP, hosted locally with XAMPP.
+### Research-Oriented Developer (HCI & AI)
 
+- Focused on the intersection of **HCI, AI, and user-centered system design**
+- Experienced in **designing, building, and evaluating interactive systems**
+- Strong emphasis on **usability testing, iterative design, and evidence-based evaluation**
 
-**🛠️ Technical Skills**
+---
 
-**Programming Languages:** Python, Java, HTML, CSS, JavaScript, PHP
+## Final Year Thesis Project: **FocusAI**
 
-**Frameworks and Tools:** NumPy, CuPy, Pytorch, XAMPP, VS Code, Bootstrap, Github
+**FocusAI** is an AI-integrated focus and productivity application designed to help university students mitigate academic procrastination.
 
-**AI and ML:** Neural Networks, MatriVasha Dataset for Bangla compound letter classification
+- Designed using **User-Centered Design (UCD)** principles  
+- Informed by a **needfinding survey** with university students  
+- Implemented as a functional prototype using **Flutter** and **Firebase**  
+- Integrated a **LLM-based relational agent** for personalized, task-aware motivation  
+- Conducted **iterative usability evaluation** using the **System Usability Scale (SUS)** across two study rounds  
+- Collected and analyzed both **quantitative (SUS, APS)** and **qualitative** user feedback  
 
-**Robotics:** Raspberry Pi 4 Model B, AI for object/face recognition, real-time decision-making
+This project strengthened my interest in **human–AI interaction**, **conversational agents**, and **usability-driven system design**.
 
+---
 
+## Technical Skills
 
-**🚀 Featured Projects**
+**Programming Languages**
+- Python, Java, Dart, JavaScript, HTML, CSS, PHP
 
-**Autonomous Healthcare Robot:**
-Real-time monitoring using infrared temperature and heart rate sensors.
-Interactive voice communication using ChatGPT API for personalized health advice.
-Advanced path navigation with neural networks and obstacle detection.
+**Frameworks & Tools**
+- Flutter, Firebase, PyTorch, NumPy, GitHub, VS Code, Bootstrap
 
+**AI & ML**
+- Neural networks  
+- Applied machine learning for user-facing systems  
 
-**Classroom Booking System:**
-Streamlining classroom and lab scheduling for university faculty.
-Features Excel data parsing for efficient booking creation.
+---
 
+## Selected Projects
 
-**Bangla Compound Letter Classification:**
-Leveraging the MatriVasha dataset to train neural networks for handwritten character recognition.
+### Autonomous Healthcare Robot
+- Real-time patient monitoring using temperature and heart-rate sensors  
+- Interactive communication via an **LLM-based conversational interface**  
+- Neural network–based navigation and obstacle avoidance  
 
+### Classroom Booking System
+- Web-based system for faculty classroom and lab scheduling  
+- Built using HTML, CSS, JavaScript, and PHP  
+- Integrated Excel-based data handling  
 
-**🌱 Learning Journey**
+### Bangla Compound Letter Classification
+- Neural network–based handwritten character recognition  
+- Trained on the **MatriVasha** dataset  
 
-Currently exploring:
-Advanced robotics and AI for human-robot interaction.
-Improving version control skills with GitHub.
+---
 
+## Current Interests
 
-**📫 Connect With Me**
+- Human–AI interaction & conversational agents  
+- HCI evaluation methods and usability testing  
+- AI applications for **education, healthcare, and well-being**
 
-LinkedIn: https://www.linkedin.com/in/tausia-tahsin-nuzum-a87100244/
-Email: tausia.tahsin@gmail.com
+---
 
-Let’s collaborate and create impactful tech solutions together! 💻✨
+## Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/tausia-tahsin-nuzum-a87100244/  
+- **Email:** tausia.tahsin@gmail.com
