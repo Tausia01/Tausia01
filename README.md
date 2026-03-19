@@ -1,8 +1,8 @@
-# Hello, I’m Tausia Tahsin Nuzum 👋
+# Hello, I’m Tausia Tahsin Nuzum 
 
-I am a **Computer Science and Engineering graduate** from **Independent University, Bangladesh**  
-(**CGPA: 3.94 / 4.00**), with a strong interest in **Human–Computer Interaction (HCI)**,  
-**User-Centered Design (UCD)**, and **applied AI systems** that support real-world human needs.
+I am a Computer Science and Engineering graduate from Independent University, Bangladesh  
+(CGPA: 3.94 / 4.00), with a strong interest in Human–Computer Interaction (HCI),  
+User-Centered Design (UCD), and applied AI systems that support real-world human needs.
 
 ---
 
@@ -44,7 +44,9 @@ This project strengthened my interest in **human–AI interaction**, **conversat
 - Applied machine learning for user-facing systems
 
 And hey, I do leetcode too (sometimes!)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Tausia?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Tausia/)
+
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Tausia?theme=light&font=Karma&ext=heatmap)](https://leetcode.com/u/Tausia/)
 
 ---
 
