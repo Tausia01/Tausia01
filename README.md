@@ -41,7 +41,10 @@ This project strengthened my interest in **human–AI interaction**, **conversat
 
 **AI & ML**
 - Neural networks  
-- Applied machine learning for user-facing systems  
+- Applied machine learning for user-facing systems
+
+And hey, I do leetcode too (sometimes!)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Tausia?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Tausia/)
 
 ---
 
